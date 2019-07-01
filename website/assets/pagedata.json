@@ -1,0 +1,75 @@
+{
+    "header": {
+        "title": "POSSIBLY#ME",
+        "subtitle": "Photography" 
+    },
+    "navbar": {
+        "home": "Home",
+        "about": "About me",
+        "photo": "Photography",
+        "more": "More…"
+    },
+    "welcome": {
+        "title": "Welcome!",
+        "body": "This is a selection of my photography projects<br>which I worked on during 2008-2018",
+        "picurl": "../assets/firstPage.jpg"
+    },
+    "about": {
+        "title": "Who I am",
+        "body": "Born in Padua, Italy, in 1972<br>All the rest is private, and anyhow <br>not at all so interesting",
+        "picurl": "../assets/about.jpg"
+    },
+    "photos": {
+        "title": "Photography",
+        "collections": [
+            {
+                "title": "First Album",
+                "date": "2017-06-04",
+                "description": "First album description",
+                "path": "../assets/gallery/trees/",
+                "thumbnail": "pic3.jpg",
+                "album": [
+                    {
+                        "name": "pic1.jpg",
+                        "title": "title 1",
+                        "caption": "caption 1"
+                    },
+                    {
+                        "name": "pic2.jpg",
+                        "title": "title 2",
+                        "caption": "a little longer caption with <br>new line <b>and</b> another<br>new line"
+                    },
+                    {
+                        "name": "pic3.jpg",
+                        "title": "title 3",
+                        "caption": "caption 3"
+                    }
+                ]
+            },
+            {
+                "title": "Second Album",
+                "date": "2019-11-09",
+                "description": "Second album description",
+                "path": "../assets/gallery/travels/",
+                "thumbnail": "pic1.jpg",
+                "album": [
+                    {
+                        "name": "pic2.jpg",
+                        "title": "",
+                        "caption": ""
+                    },
+                    {
+                        "name": "pic33.jpg",
+                        "title": "title 2-2",
+                        "caption": "2-2: a little longer caption with <br>new line <b>and</b> another<br>new line"
+                    },
+                    {
+                        "name": "pic1.jpg",
+                        "title": "title 2-3",
+                        "caption": "caption 2-3"
+                    }
+                ]
+            }
+        ]
+    }
+}
