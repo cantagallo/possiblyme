@@ -16,8 +16,8 @@
     },
     "about": {
         "title": "Who I am",
-        "body": "Born in Padua, Italy, in 1972<br>All the rest is private, and anyhow <br>not at all so interesting",
-        "picurl": "../assets/about.jpg"
+        "body": "Born in Padua, Italy, in 1972<br>All the rest is private<br>and anyhow <br>not at all so interesting",
+        "picurl": "assets/about.jpg"
     },
     "photos": {
         "title": "Photography",
@@ -26,7 +26,7 @@
                 "title": "First Album",
                 "date": "2017-06-04",
                 "description": "First album description",
-                "path": "../assets/gallery/trees/",
+                "path": "assets/gallery/trees/",
                 "thumbnail": "pic3.jpg",
                 "album": [
                     {
