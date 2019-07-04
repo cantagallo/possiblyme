@@ -12,12 +12,12 @@
     "welcome": {
         "title": "Welcome!",
         "body": "This is a selection of my photography projects<br>which I worked on during 2008-2018",
-        "picurl": "assets/firstPage.jpg"
+        "picurl": "./assets/firstPage.jpg"
     },
     "about": {
         "title": "Who I am",
         "body": "Born in Padua, Italy, in 1972<br>All the rest is private<br>and anyhow <br>not at all so interesting",
-        "picurl": "assets/about.jpg"
+        "picurl": "./assets/about.jpg"
     },
     "photos": {
         "title": "Photography",
