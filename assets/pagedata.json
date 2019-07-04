@@ -12,7 +12,7 @@
     "welcome": {
         "title": "Welcome!",
         "body": "This is a selection of my photography projects<br>which I worked on during 2008-2018",
-        "picurl": "../assets/firstPage.jpg"
+        "picurl": "assets/firstPage.jpg"
     },
     "about": {
         "title": "Who I am",
@@ -50,7 +50,7 @@
                 "title": "Second Album",
                 "date": "2019-11-09",
                 "description": "Second album description",
-                "path": "../assets/gallery/travels/",
+                "path": "assets/gallery/travels/",
                 "thumbnail": "pic1.jpg",
                 "album": [
                     {
